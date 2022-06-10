@@ -1,22 +1,23 @@
-void setup(){
-// this code runs once
-pinMode(13, OUTPUT);
-pinMode(12, OUTPUT);
+int led = 10;
+int button = 9;
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(10,OUTPUT);
+  pinMode(9, INPUT);
 
 }
-void loop(){
-// this code runs repeatedly
 
-  // make l led glow
-  digitalWrite(13, HIGH);
-  delay(100);
-  digitalWrite(13,LOW);
-  delay(100);
-
-
-  // Make Connected LED GLOW
-  digitalWrite(12,HIGH);
-  delay(100);
-  digitalWrite(12,LOW);
-  delay(100);
+void loop() {
+  // put your main code here, to run repeatedly:
+  if(digitalRead(button)==0){
+    digitalWrite(led, HIGH);
+    delay(500);
+    digitalWrite(led, LOW);
+    delay(500);
+    digitalWrite(led, HIGH);
+    delay(500);
+  }else{
+    digitalWrite(led,LOW);
+    delay(500);
+  }
 }
