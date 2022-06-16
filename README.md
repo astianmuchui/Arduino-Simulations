@@ -1,3 +1,4 @@
+
 # inspire-in-stem-arduino
 ### Basic arduino training
 #### 1 : Make a simulated blinking LED
@@ -5,3 +6,6 @@
 
 #### 2: Making a button controlled LED with a pull up resistor
 ![led2](https://user-images.githubusercontent.com/67919419/173009500-01e23131-563b-41a9-9774-db457da2a1aa.PNG)
+
+#### 3: Making a potentiometer controlled led
+![arduino](https://user-images.githubusercontent.com/67919419/174021737-10c5cfc3-48f8-4e11-bd02-d46325055e83.PNG)
