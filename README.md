@@ -9,3 +9,6 @@
 
 #### 3: Making a potentiometer controlled led
 ![arduino](https://user-images.githubusercontent.com/67919419/174021737-10c5cfc3-48f8-4e11-bd02-d46325055e83.PNG)
+
+#### 4: Complex simulation
+![Capture](https://user-images.githubusercontent.com/67919419/176857979-8e155e6f-cf36-4834-af9e-d3a506af3e8f.PNG)
