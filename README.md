@@ -12,3 +12,6 @@
 
 ##### 4: OLED display connected to three LEDs that are turned on at specific values of the potentiometer
 ![Capture](https://user-images.githubusercontent.com/67919419/176857979-8e155e6f-cf36-4834-af9e-d3a506af3e8f.PNG)
+
+##### 5: Servo Motor control using a potentiometer 
+![servoCapture](https://user-images.githubusercontent.com/67919419/176895015-c02f42ed-1919-4d54-8a37-9d489e7aa8e0.PNG)
