@@ -7,6 +7,7 @@ int pos_two = 10;
 
 
 void setup() {
+  // Set up pins for the motors
   // Almost the same as pinMode function
   servo.attach(3);  
   servo_two.attach(10);
